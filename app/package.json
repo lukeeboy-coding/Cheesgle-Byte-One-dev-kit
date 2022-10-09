@@ -1,0 +1,15 @@
+{
+  "v": 1,
+  "title": "My App",
+  "description": "Example app for Cheesgle Byte One",
+  "author": "Example",
+  "version": 0.1,
+
+  "category": "Utility",
+  "screenshot": "screenshot.png",
+
+  "entrypoint": "index.html",
+  "icon": "icon.png",
+  
+  "permissions":[]
+}
